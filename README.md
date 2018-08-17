@@ -1,1 +1,1 @@
-# mama.github.io
+# mama
